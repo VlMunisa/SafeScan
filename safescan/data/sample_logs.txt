@@ -1,17 +1,1 @@
-[2025-03-10 02:11:03] INFO User login successful from 192.168.1.10
-[2025-03-10 02:12:15] WARNING Failed login attempt from 185.244.25.17
-[2025-03-10 02:12:21] WARNING Failed login attempt from 185.244.25.17
-[2025-03-10 02:12:29] WARNING Failed login attempt from 185.244.25.17
-[2025-03-10 02:13:02] WARNING Invalid user admin from 185.244.25.17
-[2025-03-10 02:13:10] WARNING Invalid user root from 185.244.25.17
 
-[2025-03-10 02:14:55] ERROR 404 Resource /admin not found from 103.5.125.9
-[2025-03-10 02:15:03] ERROR 404 Resource /wp-login.php not found from 103.5.125.9
-[2025-03-10 02:15:17] ERROR 404 Resource /phpmyadmin not found from 64.113.32.29
-
-[2025-03-10 02:16:42] ERROR Unauthorized access attempt to /etc/passwd from 64.113.32.29
-
-[2025-03-10 02:17:30] WARNING Failed login attempt from 77.72.82.11
-[2025-03-10 02:18:05] WARNING Failed login attempt from 77.72.82.11
-
-[2025-03-10 02:19:11] INFO User logout from 192.168.1.10
